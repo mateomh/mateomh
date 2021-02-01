@@ -4,9 +4,11 @@
 My name is <b>Mateo mojica</b>, I’m a <b>full-stack developer</b> who used to work in the oil and gas industry for over eight years. Now I am looking to change industries and become a full-time software developer. That's why I joined Microverse, a fully <b>remote</b> school that focuses on <b>pair programming</b> to build software projects, and now I have all the skills needed to help you <b>build your apps</b>.
 </p>
 
+<hr>
+
 <details>
   <summary>
-     👨‍💻 More About Me  👨‍💻
+     👨‍💻 <b>More About Me</b>  👨‍💻
   </summary>
   <br>
   <p>
@@ -17,9 +19,11 @@ My name is <b>Mateo mojica</b>, I’m a <b>full-stack developer</b> who used to 
   </p>
 </details>
 
+<hr>
+
 <details>
   <summary>
-    Projects Summary
+    <b>🏁 Projects Summary 🏁</b>
   </summary>
   <br>
   <p>
@@ -38,11 +42,15 @@ My name is <b>Mateo mojica</b>, I’m a <b>full-stack developer</b> who used to 
   
 </details>
 
+<hr />
+
 <details>
   <summary>
-    All My Projects
+    <b>👷‍♂️ All My Projects 👷‍♂️</b>
   </summary>
+
   <br>
+
   <h3><img height="20" src="https://seeklogo.com/images/R/ruby-logo-087AF79367-seeklogo.com.jpg" /> Ruby & Rails <img height="20" src="https://seeklogo.com/images/R/ruby-on-rails-logo-95951CC5FB-seeklogo.com.png" /></h3>
   <ul>
   <li><a href="https://github.com/mateomh/MoneyMonster">Money Monster</a></li>
@@ -86,9 +94,11 @@ My name is <b>Mateo mojica</b>, I’m a <b>full-stack developer</b> who used to 
   </ul>
 </details>
 
+<hr>
+
 <details>
   <summary>
-    My GitHub Stats
+    <b>📊 My GitHub Stats 📊</b>
   </summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mateomh&show_icons=true&theme=highcontrast">
